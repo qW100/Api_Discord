@@ -8,8 +8,8 @@
 
                 error_reporting(E_ALL);
                                        
-                define('OAUTH2_CLIENT_ID', '885157405544046642');  // Client ID  هنا تكتب   
-                define('OAUTH2_CLIENT_SECRET', 'N9G5EC5M7U1IoySHnPYG-sD7_68OGq5x');  // Client Secret  هنا تكتب  
+                define('OAUTH2_CLIENT_ID', '12345678');  // Client ID  هنا تكتب   
+                define('OAUTH2_CLIENT_SECRET', '1278dsjh3498djkh');  // Client Secret  هنا تكتب  
 
                 $authorizeURL = 'https://discord.com/api/oauth2/authorize';
                 $tokenURL = 'https://discord.com/api/oauth2/token';
